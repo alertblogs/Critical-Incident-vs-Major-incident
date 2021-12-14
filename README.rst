@@ -1,40 +1,68 @@
-AlertOps Expert Guidance
+Critical Incident vs Major incident
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Critical incidents & major incidents are not identical. To better understand the similarities and differences between the two, let’s take a look at major and critical incidents.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+What Is a Critical Incident management? A critical incident refers to a sudden, unexpected occurrence that puts a person’s safety at risk. This incident falls outside of the range of a business’ day-to-day operations. If it goes unaddressed, a critical incident may lead to injury or death, too.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Critical incident examples include serious workplace accidents and floods, hurricanes and other natural disasters. Regardless of the critical incident, the issue must be addressed immediately to ensure all of a business’ stakeholders are safe.
 
-Automate Processes
+Critical incidents vary, but a business can deploy a consistent approach to all critical incidents, at all times. In fact, the U.S. Geological Survey offers a six-step process to help business managers respond to critical incidents:
+
+    Verify that key stakeholders are safe.
+    Notify the appropriate authorities (police department, fire department, etc.) about the incident.
+    Acknowledge that a critical incident has occurred. Provide key stakeholders with available information about the incident and respond to their concerns and questions. Continue to provide updates throughout the critical incident response process, too.
+Consider the legal ramifications associated with a critical incident. In some instances, it helps to designate a spokesperson to address the press and other media. Also, it may be helpful to instruct customer service agents and other customer-facing employees on how to handle media requests. For employees who were directly affected by a critical incident, explore ways to shield these workers and their families from the media.
+    Provide a support system for employees. A critical incident may cause stress for employees, and a business must do everything possible to support its workers. Business managers should consult with employees and find out what they are planning to do once they leave work. It also may be helpful to encourage employees to spend time with friends or family members.
+Identify employees who were most-affected by a critical incident. Sometimes, it helps to provide these employees with a quiet space to work. However, don’t force these employees into isolation if they prefer to be around co-workers.
+
+Ultimately, the ramifications of a critical incident extend far beyond the consequences of a major incident. If a business strives to plan ahead for major and critical incidents, it can improve its management and response related to both types of incidents.
+
+What Is a Major Incident?
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+A major incident disrupts a business. It also requires a response that goes beyond a company’s traditional incident management cycle.Additionally, a major incident is urgent, and it requires an incident management team to act quickly to resolve the issue. Because the longer it takes an incident management team to address a major incident, the more costly the incident likely will become for the business.
 
-Clarity
+A Real World Example of a Major Incident
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+A major incident sometimes involves a service outage that affects a large number of end users. For example, consider how a website outage could affect a business and its key stakeholders.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+In this scenario, customers and prospects won’t be able to access a company’s website. This means website visitors cannot view a business’ products and services, make online purchases or perform other website tasks.
 
-Insightful Notifications
+Let’s not forget about how a website outage affects a company’s employees, either.
+
+Sales professionals who rely on a business’ website to find product and service information are temporarily forced to work “in the dark” due to a lack of website access. Meanwhile, marketing team members cannot track website visitors and other online customer data.
+
+Of course, a website outage can have far-flung effects on a company’s bottom line, too.
+
+For each minute that a website outage goes undetected or unresolved, a company misses out on potential revenue opportunities. In some instances, prospects and customers may even choose to turn to the company’s rivals as well.
+
+Tips to Manage a Major Incident
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Even a single major incident can cause significant brand reputation damage and revenue loss. Fortunately, there are many things that incident management team members can do to streamline major incident response, such as:
 
-Conclusion
+    Remain calm. If a major incident occurs, don’t panic. Instead, stay calm, cool and collected and evaluate the incident objectively.
+    Notify key stakeholders. Be proactive – notify key stakeholders about the incident, and continue to provide incident updates until the issue is resolved.
+    Deploy a fix. If possible, deploy a temporary fix to resolve the incident. In this situation, it also is important to continue to evaluate the problem and find a long-term solution.
+    Verify the results. Once a fix is deployed, ensure non-operational systems are working properly once again. Then, notify key stakeholders to let them know that the issue has been fully resolved.
+    Accept the aftermath. Major incidents often happen without notice, but each incident provides a valuable learning experience. Thus, it helps to accept a major incident, learn from it and explore ways to ensure the same issue won’t happen again.
+
+Major incident management is an ongoing process. If an incident management team retrieves major incident data and tracks mean time to resolution (MTTR) and other pertinent incident data, it can drive continuous improvement. Best of all, this team may be better equipped than ever before to identify innovative ways to prevent major incidents from happening.
+
+The Bottom line critical vs Major incidents
 ====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Incidents – both major and critical – may prove to be unavoidable. Despite a business’ best efforts, a major or critical incident may occur at any time.
 
-1 Red Canary 2021 Threat Detection Report
+Major and critical incidents may seem very different, but there is a common thread between the two: communication. If a business has the ability to communicate with its key stakeholders throughout a major or critical incident, it can effectively manage incident response.
+
+Alert notification systems are now available that empower businesses to quickly notify key stakeholders about major and critical incidents. Plus, these systems allow companies to keep stakeholders up to date throughout an incident.
+
+With an alert messaging system in place, a business can minimize communication problems commonly associated with poor major or critical incident management. Most important, an alert notification system can help a business to consistently provide its key stakeholders with the support that they deserve.
+
+With an alert messaging system in place, a business can minimize communication problems commonly associated with poor major or critical incident management. Most important, an alert notification system can help a business to consistently provide its key stakeholders with the support that they deserve.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/major-critical-incidents/
 
 Read more:
 ====
